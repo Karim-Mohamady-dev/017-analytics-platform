@@ -1,0 +1,324 @@
+{
+  "nav": {
+    "features": "Features",
+    "how": "How it works",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "skip": "Skip to content",
+    "cta": "Start free trial"
+  },
+  "form": {
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "email": "Email address",
+    "emailPlaceholder": "you@example.com",
+    "successTitle": "You are on the list",
+    "success": "Check your inbox for the next steps.",
+    "errorRequired": "This field is required",
+    "errorEmail": "Enter a valid email address",
+    "privacy": "We only use your details to set up your account.",
+    "submit": "Start your free trial"
+  },
+  "footer": {
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "privacyText": "Demo privacy notice. This page is a demonstration. It does not collect or store personal data on a server. Details entered in the form stay in your browser.",
+    "termsText": "Demo terms. This page is a demonstration with sample content and placeholder prices. Nothing here is a binding offer.",
+    "tagline": "Analytics that answer questions, not create them.",
+    "rights": "© 2026 Metriq. All rights reserved."
+  },
+  "cookie": {
+    "label": "Cookie notice",
+    "text": "We use cookies to remember your language choice and keep this demo working.",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "misc": {
+    "close": "Close",
+    "backToTop": "Back to top",
+    "taglineLabel": "Our promise"
+  },
+  "meta": {
+    "title": "Metriq | Analytics platform for growing teams",
+    "description": "Metriq turns product events into clear dashboards, weekly reports and answers you can act on, without writing SQL."
+  },
+  "brand": {
+    "name": "Metriq",
+    "initial": "M"
+  },
+  "hero": {
+    "badge": "New: funnel reports",
+    "title": "See what your product data is really saying",
+    "subtitle": "Metriq turns raw events into clear dashboards, weekly reports and answers you can act on, without writing SQL.",
+    "cta": "Start your free trial",
+    "secondary": "Try the live demo",
+    "proof": "Sample workspace used by teams at Fieldnote, Harborline and Copperleaf"
+  },
+  "logos": {
+    "label": "Built for product teams at",
+    "items": [
+      "Fieldnote",
+      "Harborline",
+      "Copperleaf",
+      "Vantage Labs",
+      "Northwind Retail"
+    ],
+    "note": "Sample company names for demonstration."
+  },
+  "problem": {
+    "eyebrow": "The problem",
+    "title": "Reports take days. Decisions take minutes.",
+    "text": "Data sits in five tools, the weekly report is a spreadsheet nobody opens, and the question you need answered today waits for an analyst who is busy.",
+    "points": [
+      "Dashboards go stale the day they are built",
+      "Reports arrive after the decision is made",
+      "Asking a question means filing a ticket"
+    ]
+  },
+  "benefits": {
+    "eyebrow": "Why Metriq",
+    "title": "Numbers you can use, not numbers you file away",
+    "items": [
+      {
+        "title": "Dashboards that stay current",
+        "text": "Every chart updates as events arrive, so the number on screen is the number right now."
+      },
+      {
+        "title": "Reports your team actually reads",
+        "text": "A short weekly summary with the three numbers that moved and why they moved."
+      },
+      {
+        "title": "Funnels without SQL",
+        "text": "Drag steps into a funnel and see where people drop off, no query language needed."
+      },
+      {
+        "title": "Alerts before numbers slip",
+        "text": "Set a threshold and get a message when signups or revenue move outside the range you expect."
+      }
+    ]
+  },
+  "tagline": "Every click, every signup, every signal in one calm place where decisions get easier.",
+  "how": {
+    "eyebrow": "How it works",
+    "title": "From raw events to answers in three steps",
+    "steps": [
+      {
+        "title": "Connect your sources",
+        "text": "Send events from your app, website or warehouse with a short snippet or a ready connector."
+      },
+      {
+        "title": "Pick a dashboard template",
+        "text": "Start from a template for growth, retention or revenue and adjust it to your metrics."
+      },
+      {
+        "title": "Share the report",
+        "text": "Send a weekly summary to your team or open a live link in the meeting."
+      }
+    ]
+  },
+  "proof": {
+    "eyebrow": "What teams say",
+    "title": "Sample notes from teams using the demo",
+    "label": "Sample testimonial",
+    "items": [
+      {
+        "quote": "Our Monday meeting finally starts with the numbers, not with a search for the numbers.",
+        "name": "Sara Haddad",
+        "role": "Product lead at Fieldnote"
+      },
+      {
+        "quote": "I built our signup funnel in an afternoon and found the step where people were leaving.",
+        "name": "Omar Nasser",
+        "role": "Growth manager at Harborline"
+      },
+      {
+        "quote": "The weekly summary is the one report our founders actually open.",
+        "name": "Lina Farouk",
+        "role": "Data analyst at Copperleaf"
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Pick the plan that fits your team",
+    "note": "Prices are placeholders. Start free and upgrade when your team grows.",
+    "popular": "Most popular",
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "{{price}}",
+        "period": "per month",
+        "cta": "Start free trial",
+        "popular": false,
+        "features": [
+          "3 dashboards",
+          "30 day data history",
+          "Weekly email summary",
+          "2 team seats"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "{{price}}",
+        "period": "per month",
+        "cta": "Start free trial",
+        "popular": true,
+        "features": [
+          "Unlimited dashboards",
+          "12 month data history",
+          "Funnels and alerts",
+          "10 team seats"
+        ]
+      },
+      {
+        "name": "Scale",
+        "price": "{{price}}",
+        "period": "per month",
+        "cta": "Talk to sales",
+        "popular": false,
+        "features": [
+          "Unlimited history",
+          "Warehouse sync",
+          "Single sign on",
+          "Priority support"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions, answered",
+    "items": [
+      {
+        "q": "Do I need to write SQL?",
+        "a": "No. Dashboards, funnels and reports are built with clicks. SQL is available for teams that want it."
+      },
+      {
+        "q": "How long does setup take?",
+        "a": "Most teams send their first event within an hour using the snippet or a ready connector."
+      },
+      {
+        "q": "Where does my data live?",
+        "a": "Your events are stored in an isolated workspace. Export or delete them at any time from settings."
+      },
+      {
+        "q": "Can I share a dashboard with people outside my team?",
+        "a": "Yes. You can share a read only live link, or send a scheduled summary by email."
+      },
+      {
+        "q": "What counts as an event?",
+        "a": "Any action you send, such as a signup, a purchase or a page view. Page views are sampled on large plans."
+      },
+      {
+        "q": "Is there a free trial?",
+        "a": "Yes. The trial includes the Growth plan features. No card is needed to start it."
+      },
+      {
+        "q": "Can I cancel anytime?",
+        "a": "Yes. Cancel from billing settings and keep access until the end of the paid period."
+      },
+      {
+        "q": "Do you offer support?",
+        "a": "Every plan includes email support. Growth and Scale include a shared chat channel."
+      }
+    ]
+  },
+  "final": {
+    "title": "Start seeing your numbers clearly",
+    "text": "Create a free workspace and connect your first source today."
+  },
+  "demo": {
+    "title": "Live dashboard demo",
+    "subtitle": "Try the chart below. All figures are sample data.",
+    "sampleLabel": "Sample data",
+    "metricLabel": "Metric",
+    "rangeLabel": "Date range",
+    "range7": "Last 7 days",
+    "range30": "Last 30 days",
+    "chartLabel": "Bar chart of the selected metric over the selected range",
+    "hint": "Hover or focus a bar to see its value.",
+    "metrics": {
+      "visitors": "Visitors",
+      "signups": "Signups",
+      "revenue": "Revenue"
+    },
+    "months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "datasets": {
+      "visitors": [
+        4120,
+        5380,
+        4910,
+        6230,
+        5870,
+        7120,
+        6890,
+        7640,
+        8210,
+        7980,
+        9130,
+        9640
+      ],
+      "signups": [
+        312,
+        428,
+        391,
+        512,
+        487,
+        603,
+        571,
+        648,
+        702,
+        689,
+        774,
+        831
+      ],
+      "revenue": [
+        1840,
+        2210,
+        2075,
+        2680,
+        2430,
+        3120,
+        2980,
+        3410,
+        3760,
+        3590,
+        4120,
+        4380
+      ]
+    },
+    "kpi": [
+      {
+        "label": "Active users",
+        "value": "9,640",
+        "change": "+7.3% this month"
+      },
+      {
+        "label": "Signups",
+        "value": "831",
+        "change": "+6.9% this month"
+      },
+      {
+        "label": "Revenue",
+        "value": "$4,380",
+        "change": "+5.8% this month"
+      }
+    ]
+  }
+}
